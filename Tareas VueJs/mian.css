@@ -1,0 +1,9 @@
+.tareasr{
+    text-decoration: line-through;
+}
+.tareabien{
+    background-color: rgba(10, 230, 2, 0.24);
+}
+body{
+    background:radial-gradient(200px top, ellipse, white, #1162ac, black);
+}
